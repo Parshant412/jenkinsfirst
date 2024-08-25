@@ -1,0 +1,1 @@
+this is the ENV file where all the ENV variables will be stored
